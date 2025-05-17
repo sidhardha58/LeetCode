@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sidhardha58/LeetCode/tree/master/0075-sort-colors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sidhardha58/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sidhardha58/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sidhardha58/LeetCode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sidhardha58/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
