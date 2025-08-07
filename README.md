@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/sidhardha58/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sidhardha58/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sidhardha58/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3791-fruits-into-baskets-iii](https://github.com/sidhardha58/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## String
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sidhardha58/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sidhardha58/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sidhardha58/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3791-fruits-into-baskets-iii](https://github.com/sidhardha58/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -219,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sidhardha58/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sidhardha58/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/sidhardha58/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/sidhardha58/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
