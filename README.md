@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sidhardha58/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sidhardha58/LeetCode/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/sidhardha58/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sidhardha58/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sidhardha58/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -243,9 +244,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/sidhardha58/LeetCode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/sidhardha58/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sidhardha58/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sidhardha58/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
