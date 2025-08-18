@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sidhardha58/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/sidhardha58/LeetCode/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/sidhardha58/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/sidhardha58/LeetCode/tree/master/0679-24-game) |
 | [0945-snakes-and-ladders](https://github.com/sidhardha58/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sidhardha58/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sidhardha58/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/sidhardha58/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sidhardha58/LeetCode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/sidhardha58/LeetCode/tree/master/0679-24-game) |
 | [0900-reordered-power-of-2](https://github.com/sidhardha58/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sidhardha58/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sidhardha58/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/sidhardha58/LeetCode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sidhardha58/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Sliding Window
 |  |
