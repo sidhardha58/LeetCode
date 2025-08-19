@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sidhardha58/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sidhardha58/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sidhardha58/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sidhardha58/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/sidhardha58/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sidhardha58/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sidhardha58/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/sidhardha58/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sidhardha58/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sidhardha58/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sidhardha58/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sidhardha58/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sidhardha58/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sidhardha58/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
