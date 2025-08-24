@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/sidhardha58/LeetCode/tree/master/0679-24-game) |
 | [0945-snakes-and-ladders](https://github.com/sidhardha58/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sidhardha58/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sidhardha58/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sidhardha58/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sidhardha58/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sidhardha58/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sidhardha58/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sidhardha58/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sidhardha58/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sidhardha58/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sidhardha58/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sidhardha58/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sidhardha58/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Segment Tree
 |  |
