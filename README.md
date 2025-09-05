@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/sidhardha58/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sidhardha58/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sidhardha58/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sidhardha58/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sidhardha58/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sidhardha58/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sidhardha58/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/sidhardha58/LeetCode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/sidhardha58/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sidhardha58/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sidhardha58/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sidhardha58/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sidhardha58/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
