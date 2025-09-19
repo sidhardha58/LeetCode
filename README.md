@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sidhardha58/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sidhardha58/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3791-fruits-into-baskets-iii](https://github.com/sidhardha58/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/sidhardha58/LeetCode/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sidhardha58/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sidhardha58/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sidhardha58/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/sidhardha58/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sidhardha58/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/sidhardha58/LeetCode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sidhardha58/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sidhardha58/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/sidhardha58/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sidhardha58/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/sidhardha58/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sidhardha58/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sidhardha58/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/sidhardha58/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -341,4 +345,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/sidhardha58/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sidhardha58/LeetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/sidhardha58/LeetCode/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
