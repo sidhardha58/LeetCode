@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/sidhardha58/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3791-fruits-into-baskets-iii](https://github.com/sidhardha58/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/sidhardha58/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/sidhardha58/LeetCode/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sidhardha58/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sidhardha58/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3797-design-spreadsheet](https://github.com/sidhardha58/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/sidhardha58/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sidhardha58/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sidhardha58/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sidhardha58/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3791-fruits-into-baskets-iii](https://github.com/sidhardha58/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/sidhardha58/LeetCode/tree/master/3827-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/sidhardha58/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sidhardha58/LeetCode/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/sidhardha58/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/sidhardha58/LeetCode/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sidhardha58/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/sidhardha58/LeetCode/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |
@@ -346,4 +351,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/sidhardha58/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sidhardha58/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/sidhardha58/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/sidhardha58/LeetCode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
