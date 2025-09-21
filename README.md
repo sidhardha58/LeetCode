@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sidhardha58/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sidhardha58/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sidhardha58/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2023-design-movie-rental-system](https://github.com/sidhardha58/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sidhardha58/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sidhardha58/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sidhardha58/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sidhardha58/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sidhardha58/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sidhardha58/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2023-design-movie-rental-system](https://github.com/sidhardha58/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sidhardha58/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sidhardha58/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2429-design-a-food-rating-system](https://github.com/sidhardha58/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/sidhardha58/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sidhardha58/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/sidhardha58/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sidhardha58/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/sidhardha58/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/sidhardha58/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sidhardha58/LeetCode/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/sidhardha58/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/sidhardha58/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/sidhardha58/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sidhardha58/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/sidhardha58/LeetCode/tree/master/3797-design-spreadsheet) |
