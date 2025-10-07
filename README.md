@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sidhardha58/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sidhardha58/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sidhardha58/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/sidhardha58/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sidhardha58/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sidhardha58/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/sidhardha58/LeetCode/tree/master/2023-design-movie-rental-system) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sidhardha58/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/sidhardha58/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sidhardha58/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/sidhardha58/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sidhardha58/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sidhardha58/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sidhardha58/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/sidhardha58/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1006-vowel-spellchecker](https://github.com/sidhardha58/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sidhardha58/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1612-avoid-flood-in-the-city](https://github.com/sidhardha58/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sidhardha58/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sidhardha58/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2023-design-movie-rental-system](https://github.com/sidhardha58/LeetCode/tree/master/2023-design-movie-rental-system) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sidhardha58/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/sidhardha58/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/sidhardha58/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/sidhardha58/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sidhardha58/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/sidhardha58/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/sidhardha58/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/sidhardha58/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/sidhardha58/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sidhardha58/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sidhardha58/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sidhardha58/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
